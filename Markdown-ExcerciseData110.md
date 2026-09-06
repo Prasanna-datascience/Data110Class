@@ -53,11 +53,11 @@ def Hello Data_Science_110():
 
 
 ###### Header Level 6 - Task List
-- [ ] Create a Markdown file
-- [ ] Practice Headers
+- [X] Create a Markdown file
+- [X] Practice Headers
 - [ ] Learn how to use tables
 - [ ] Experiecne with the task list
 - [ ] Code block
 
 ###### Header Level 6 - Footnotes
-[*1]: Will add foot notes about project conclusions. 
+[^1]: Will add foot notes about project conclusions. 
