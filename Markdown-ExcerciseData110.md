@@ -30,4 +30,4 @@
 https://github.com/Prasanna-datascience/Data110Class
 
 ###### Header - Header Level 6 - Image
-
+![Data Science Logo](https://github.com/Prasanna-datascience/Data110Class/blob/main/Datascience%20Logo.jpg)
